@@ -1,0 +1,1 @@
+Make AES encrypted shellcode easy peasy! Outputs IV & Key as b64 and csharp array, then stores encrypted shellcode in a binary (BIN) file. Then use ShellcodeFormatter (or similar) to dump the shellcode!
