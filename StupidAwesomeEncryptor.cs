@@ -8,7 +8,7 @@ namespace AES
     class Program
     {
         // Usage:
-        //   ULTIMATE-CSharpencryptor.exe <input_file> <output_file> [--binary | --b64]
+        //   StupidAwesomeEncryptor.exe <input_file> <output_file> [--binary | --b64]
         //
         // Notes:
         //  --binary : encrypt raw bytes -> ciphertext bytes (recommended if you want a real .bin output)
@@ -128,11 +128,11 @@ namespace AES
         static void PrintUsage()
         {
             Console.WriteLine("[+] Usage:");
-            Console.WriteLine("[+]   ULTIMATE-CSharpencryptor.exe <path_to_input_file> <output_file> [--binary | --b64]");
+            Console.WriteLine("[+]   StupidAwesomeEncryptor.exe <path_to_input_file> <output_file> [--binary | --b64]");
             Console.WriteLine("[+]");
             Console.WriteLine("[+] Examples:");
-            Console.WriteLine("[+]   ULTIMATE-CSharpencryptor.exe payload.bin out.enc --binary");
-            Console.WriteLine("[+]   ULTIMATE-CSharpencryptor.exe payload.bin out.enc --b64");
+            Console.WriteLine("[+]   StupidAwesomeEncryptor.exe payload.bin out.enc --binary");
+            Console.WriteLine("[+]   StupidAwesomeEncryptor.exe payload.bin out.enc --b64");
         }
 
         static string ToCSharpByteArray(string name, byte[] data)
@@ -259,3 +259,4 @@ namespace AES
         }
     }
 }
+
