@@ -1,0 +1,7 @@
+C:\Users\dev\source\repos\StupidAwesomEncryptor\StupidAwesomEncryptor\bin\x64\Release\StupidAwesomEncryptor.exe.config
+C:\Users\dev\source\repos\StupidAwesomEncryptor\StupidAwesomEncryptor\bin\x64\Release\StupidAwesomEncryptor.exe
+C:\Users\dev\source\repos\StupidAwesomEncryptor\StupidAwesomEncryptor\bin\x64\Release\StupidAwesomEncryptor.pdb
+C:\Users\dev\source\repos\StupidAwesomEncryptor\StupidAwesomEncryptor\obj\x64\Release\StupidAwesomEncryptor.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\StupidAwesomEncryptor\StupidAwesomEncryptor\obj\x64\Release\StupidAwesomEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\StupidAwesomEncryptor\StupidAwesomEncryptor\obj\x64\Release\StupidAwesomEncryptor.exe
+C:\Users\dev\source\repos\StupidAwesomEncryptor\StupidAwesomEncryptor\obj\x64\Release\StupidAwesomEncryptor.pdb
